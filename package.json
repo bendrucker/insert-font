@@ -1,7 +1,7 @@
 {
   "name": "insert-fonts",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Insert a set of fonts using base64 encoding and CSS font-face tags",
   "license": "MIT",
   "repository": "bendrucker/insert-fonts",
