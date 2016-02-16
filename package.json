@@ -1,0 +1,43 @@
+{
+  "name": "insert-fonts",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Insert a set of fonts using base64 encoding and CSS font-face tags",
+  "license": "MIT",
+  "repository": "bendrucker/insert-fonts",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js | tap-difflet"
+  },
+  "keywords": [
+    "font",
+    "font-face",
+    "css",
+    "base64",
+    "inline",
+    "browser"
+  ],
+  "devDependencies": {
+    "standard": "^5.0.0",
+    "tap-difflet": "~0.4.0",
+    "tape": "^4.0.0"
+  },
+  "files": [
+    "index.js",
+    "create.js"
+  ],
+  "dependencies": {
+    "ap": "~0.2.0",
+    "create-data-uri": "~1.1.0",
+    "flatten": "~1.0.2",
+    "insert-styles": "~1.0.0",
+    "object-pair": "~1.0.0",
+    "simple-format": "~1.0.0",
+    "to-css": "~1.2.1",
+    "value-pipe": "~1.0.0"
+  }
+}
