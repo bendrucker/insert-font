@@ -22,8 +22,8 @@
     "browser"
   ],
   "devDependencies": {
-    "standard": "^5.0.0",
-    "tap-difflet": "~0.4.0",
+    "standard": "^12.0.1",
+    "tap-difflet": "~0.7.1",
     "tape": "^4.0.0"
   },
   "files": [
@@ -34,7 +34,7 @@
     "ap": "~0.2.0",
     "create-data-uri": "~1.1.0",
     "flatten": "~1.0.2",
-    "insert-styles": "~1.0.0",
+    "insert-styles": "~1.2.1",
     "object-pair": "~1.0.0",
     "simple-format": "~1.0.0",
     "to-css": "~1.2.1",
