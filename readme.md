@@ -1,4 +1,4 @@
-# insert-fonts [![Build Status](https://travis-ci.org/bendrucker/insert-fonts.svg?branch=master)](https://travis-ci.org/bendrucker/insert-fonts)
+# insert-fonts [![Build Status](https://travis-ci.org/bendrucker/insert-fonts.svg?branch=master)](https://travis-ci.org/bendrucker/insert-fonts) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/insert-fonts.svg)](https://greenkeeper.io/)
 
 > Insert a set of fonts using base64 encoding and CSS font-face tags
 
